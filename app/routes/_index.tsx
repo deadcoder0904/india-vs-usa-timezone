@@ -66,7 +66,7 @@ export default function Index() {
         <p className="text-xl text-gray-300">{indiaTime}</p>
       </div>
       <div className="text-center">
-        <h2 className="text-2xl font-semibold mb-2">America (EST)</h2>
+        <h2 className="text-2xl font-semibold mb-2">America (MST)</h2>
         <p className="text-xl text-gray-300">{americaTime}</p>
       </div>
     </div>
